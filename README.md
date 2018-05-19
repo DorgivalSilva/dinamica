@@ -3,7 +3,7 @@ Aulas de Mecânica Geral II
 
 Aula introdutória
 
-<a href = "https://github.com/DorgivalSilva/dinamica/raw/master/00.zip">Introduçaõ</a>
+<a href = "https://github.com/DorgivalSilva/dinamica/raw/master/00.zip">Introdução</a>
 
 
 Cinemática de partícula
