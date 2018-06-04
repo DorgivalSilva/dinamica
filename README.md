@@ -5,7 +5,6 @@ Aula introdutória
 
 <a href = "https://github.com/DorgivalSilva/dinamica/raw/master/00.zip">Introdução</a>
 
-
-Cinemática de partícula
+Conceitos de momentos e produtos de inércia e raio de giração
 
 <a href = "https://github.com/DorgivalSilva/dinamica/raw/master/01.zip">Ensaios Balísticos</a>
