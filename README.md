@@ -7,4 +7,4 @@ Aula introdutória
 
 Conceitos de momentos e produtos de inércia e raio de giração
 
-<a href = "https://github.com/DorgivalSilva/dinamica/raw/master/01.zip">Ensaios Balísticos</a>
+<a href = "https://github.com/DorgivalSilva/dinamica/raw/master/Inercia.zip">Inércia</a>
